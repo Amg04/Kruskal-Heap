@@ -1,0 +1,14 @@
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Heap\bin\Debug\net7.0\Heap.exe
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Heap\bin\Debug\net7.0\Heap.deps.json
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Heap\bin\Debug\net7.0\Heap.runtimeconfig.json
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Heap\bin\Debug\net7.0\Heap.dll
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Heap\bin\Debug\net7.0\Heap.pdb
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Heap\obj\Debug\net7.0\Heap.GeneratedMSBuildEditorConfig.editorconfig
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Heap\obj\Debug\net7.0\Heap.AssemblyInfoInputs.cache
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Heap\obj\Debug\net7.0\Heap.AssemblyInfo.cs
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Heap\obj\Debug\net7.0\Heap.csproj.CoreCompileInputs.cache
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Heap\obj\Debug\net7.0\Heap.dll
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Heap\obj\Debug\net7.0\refint\Heap.dll
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Heap\obj\Debug\net7.0\Heap.pdb
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Heap\obj\Debug\net7.0\Heap.genruntimeconfig.cache
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Heap\obj\Debug\net7.0\ref\Heap.dll

@@ -1,0 +1,14 @@
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Kruskal\bin\Debug\net7.0\Kruskal.exe
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Kruskal\bin\Debug\net7.0\Kruskal.deps.json
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Kruskal\bin\Debug\net7.0\Kruskal.runtimeconfig.json
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Kruskal\bin\Debug\net7.0\Kruskal.dll
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Kruskal\bin\Debug\net7.0\Kruskal.pdb
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Kruskal\obj\Debug\net7.0\Kruskal.GeneratedMSBuildEditorConfig.editorconfig
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Kruskal\obj\Debug\net7.0\Kruskal.AssemblyInfoInputs.cache
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Kruskal\obj\Debug\net7.0\Kruskal.AssemblyInfo.cs
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Kruskal\obj\Debug\net7.0\Kruskal.csproj.CoreCompileInputs.cache
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Kruskal\obj\Debug\net7.0\Kruskal.dll
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Kruskal\obj\Debug\net7.0\refint\Kruskal.dll
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Kruskal\obj\Debug\net7.0\Kruskal.pdb
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Kruskal\obj\Debug\net7.0\Kruskal.genruntimeconfig.cache
+E:\كتب\كتب3\semester 1\Algorithms analysis and design\New folder (2)\Assignment\Kruskal&Heap\Kruskal\obj\Debug\net7.0\ref\Kruskal.dll
